@@ -1,6 +1,6 @@
 import java.util.List;
 import java.util.ArrayList;
-public class L8_Methods {
+public class L7_Methods {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         int a = 5;
